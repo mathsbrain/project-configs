@@ -1,4 +1,4 @@
-## Configurações do ESLINT
+## Configurações do Eslint + Prettier + Tailwind
 
 repo com as configurações do eslint que eu uso diáriamente.
 
