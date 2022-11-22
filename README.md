@@ -12,3 +12,5 @@ libs necessárias:
 - autoprefixer
 - postcss
 - tailwindcss
+- eslint-plugin-prettier
+- eslint-config-prettier
